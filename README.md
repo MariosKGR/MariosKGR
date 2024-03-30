@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariosKGR
 - 👀 I’m interested in learning code, new ideas and much more!
-- 🌱 I’m currently learning Python, JavaScript/TypeScript
+- 🌱 I’m currently learning Lua, Python, JavaScript/TypeScript...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Digital Stuff (Drawing, Coding, Shopping, ...)
 
