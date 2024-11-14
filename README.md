@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MariosKGR
+- 👋 Hi, I’m @MariosKGR. Student@DSUniPi
 - 👀 I’m interested in learning code, new ideas and much more!
-- 🌱 I’m currently learning Python and C++...
+- 🌱 I know about Python. I’m currently learning C...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like dogs!
 
